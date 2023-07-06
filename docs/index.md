@@ -1,5 +1,7 @@
 {!README.md!}
 
-# Welcome to Lumache's documentation!
+# Welcome to Documentation 
+
+We have two approaches...
 
 
