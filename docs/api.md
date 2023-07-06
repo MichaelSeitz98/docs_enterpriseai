@@ -1,3 +1,5 @@
-# API Reference
+# Module Guide Assistant
 
+
+Würzburg Modulhandbuch & CO
 ::: lumache
